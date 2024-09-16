@@ -6,5 +6,5 @@ fn main() {
     let address: String = String::from("Rust Programming");
     let is_right: bool = false;
 
-    println!("My name is {}, of age {} and learing {}. This statement is {}.", name, age, address, is_right);
+    println!("My name is {}, of age {} and learning {}. This statement is {}.", name, age, address, is_right);
 }
